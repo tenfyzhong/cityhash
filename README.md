@@ -1,5 +1,6 @@
 # cityhash
 [![go](https://github.com/tenfyzhong/cityhash/actions/workflows/build-test.yml/badge.svg?branch=master)](https://github.com/tenfyzhong/cityhash/actions/workflows/build-test.yml)
+[![codecov](https://codecov.io/gh/tenfyzhong/cityhash/graph/badge.svg?token=wx1Ksoi2Fu)](https://codecov.io/gh/tenfyzhong/cityhash)
 [![GitHub tag](https://img.shields.io/github/tag/tenfyzhong/cityhash.svg)](https://github.com/tenfyzhong/cityhash/tags)
 [![Go Reference](https://pkg.go.dev/badge/github.com/tenfyzhong/cityhash.svg)](https://pkg.go.dev/github.com/tenfyzhong/cityhash)
 
