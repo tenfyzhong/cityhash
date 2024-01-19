@@ -1,5 +1,5 @@
 # cityhash
-[![Build Status](https://github.com/tenfyzhong/cityhash/actions/workflows/go-build-test.yml/badge.svg?branch=main)](https://github.com/tenfyzhong/cityhash/actions/workflows/go-build-test.yml)
+[![go](https://github.com/tenfyzhong/cityhash/actions/workflows/build-test.yml/badge.svg?branch=master)](https://github.com/tenfyzhong/cityhash/actions/workflows/build-test.yml)
 [![GitHub tag](https://img.shields.io/github/tag/tenfyzhong/cityhash.svg)](https://github.com/tenfyzhong/cityhash/tags)
 [![Go Reference](https://pkg.go.dev/badge/github.com/tenfyzhong/cityhash.svg)](https://pkg.go.dev/github.com/tenfyzhong/cityhash)
 
