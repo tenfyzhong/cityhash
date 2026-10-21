@@ -12,9 +12,11 @@ jobs:
     strategy:
       matrix:
         go-version: ['1.26.10', '1.27.3']
-    uses: tenfyzhong/workflows/.github/workflows/go-build-test.yml@468e08546cefd77d8f6ec41402afce1d9bbd8c72
+    uses: tenfyzhong/workflows/.github/workflows/go-build-test.yml@7d715fdd05c0bbfc68fee2778d7cebd72cf31cdc
     with: 
       go-version: ${{matrix.go-version}}
+      enable-codecov: false
+      upload-coverage-artifact: true
 
     secrets:
       CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
